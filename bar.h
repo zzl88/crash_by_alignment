@@ -1,3 +1,5 @@
+#pragma once
+
 #include "foo.h"
 
 struct Bar {
